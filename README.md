@@ -62,7 +62,7 @@ ProdSim+的核心价值在于其**可审计的分析过程**。以下展示AI模
 # 克隆仓库并运行模拟
 git clone https://github.com/yourusername/ProdSim-Plus.git
 cd ProdSim-Plus
-python Policy_Simulation_Sandbox.py
+python ProdSim_Plus.py
 ```
 
 ---
