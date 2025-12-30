@@ -60,9 +60,9 @@ ProdSim+的核心价值在于其**可审计的分析过程**。以下展示AI模
 
 ```bash
 # 克隆仓库并运行模拟
-git clone https://github.com/yourusername/ProdSim-Plus.git
-cd ProdSim-Plus
-python ProdSim_Plus.py
+git clone https://gitee.com/cognitive-commons/prodsim-plus.git
+cd prodsim-plus
+python Prodsim_Plus.py
 ```
 
 ---
@@ -205,8 +205,8 @@ DashScope API密钥（用于通义千问模型调用）
 ### **安装与运行**
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourusername/ProdSim-Plus.git
-cd ProdSim-Plus
+git clone https://gitee.com/cognitive-commons/prodsim-plus.git
+cd prodsim-plus
 
 # 2. 设置API密钥
 # Linux/macOS
@@ -215,7 +215,7 @@ export DASHSCOPE_API_KEY="your-api-key-here"
 set DASHSCOPE_API_KEY=your-api-key-here
 
 # 3. 运行生产模拟示例
-python Policy_Simulation_Sandbox.py
+python Prodsim_Plus.py
 ```
 
 ### **自定义生产模拟**
